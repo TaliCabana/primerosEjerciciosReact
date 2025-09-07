@@ -1,8 +1,7 @@
 const Hello = () => {
     return (
-        <div>
-            <p>Hola mundo desde App.jsx</p>
-        </div>
+      <h1>Hola mundo ♥</h1>
+        
     );
 };
 
