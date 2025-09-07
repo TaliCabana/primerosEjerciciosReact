@@ -1,7 +1,11 @@
+import Hello from "./components/Hello";
 
 function App() {
-
-  return <h1>Hola mundo ♥</h1>
+  return (
+    <>
+      <Hello></Hello>
+    </>
+  );
 }
 
-export default App
+export default App;
