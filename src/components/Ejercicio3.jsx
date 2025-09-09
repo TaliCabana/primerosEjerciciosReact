@@ -7,7 +7,7 @@ const Ejercicio3 = () => {
 
     // funcion par cambiar el mensaje al hacer click:
     const handleClick = () =>{
-        setMensaje("Hola Pini! 🤗 (desde el cambio de estado)!")
+        setMensaje("Hola Pini! 🤗 (desde el cambio de estado)😮")
     }
 
     return (
